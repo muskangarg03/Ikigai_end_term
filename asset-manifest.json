@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ikigai_end_term/static/css/main.a2099595.css",
+    "main.js": "/Ikigai_end_term/static/js/main.a01ebf08.js",
+    "index.html": "/Ikigai_end_term/index.html",
+    "main.a2099595.css.map": "/Ikigai_end_term/static/css/main.a2099595.css.map",
+    "main.a01ebf08.js.map": "/Ikigai_end_term/static/js/main.a01ebf08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2099595.css",
+    "static/js/main.a01ebf08.js"
+  ]
+}
